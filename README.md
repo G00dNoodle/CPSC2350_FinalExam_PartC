@@ -1,2 +1,3 @@
-# CPSC2350_FinalExam_PartC(finalExam2022.md)
+# CPSC2350_FinalExam_PartC
+my fav movie(finalExam2022.md)
 
